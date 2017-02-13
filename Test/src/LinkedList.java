@@ -28,7 +28,7 @@ public class LinkedList {
 		}
 	}
 	
-	
+	//hello
 	
 	public static int getCounter(){
 		return counter;
@@ -54,6 +54,8 @@ public class LinkedList {
 		
 		//System.out.println(LL.size());
 
+		
+		
 	}
 
 }
